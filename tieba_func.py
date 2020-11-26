@@ -1,4 +1,4 @@
-#coding:utf-8
+#coding:utf-8 
 #!/usr/bin/env python3
 # @xindada
 import tkinter as tk  # 使用Tkinter前需要先导入
